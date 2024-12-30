@@ -2,6 +2,6 @@
 
 . build/envsetup.sh
 
-lunch aosp_larry-ap2a-userdebug
+lunch aosp_larry-ap4a-userdebug
 
 mka bacon
